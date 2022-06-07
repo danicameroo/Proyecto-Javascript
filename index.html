@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&family=STIX+Two+Text:ital,wght@1,600&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>Nuestros productos</title>
+</head>
+<body class="text-center">
+    <header>  
+        <div class="container encabezado">
+          <div class="row">
+            <div class="col-md-2"></div>
+          <div class="col-md-8 tituloCentrar">
+            <h1 class="titulo">Madagaskar</h1>
+              <ul class="menu">
+                <li>
+                  <h4><a class="menu-li" href="./index.html">Productos</a></h4>
+                </li>
+              </ul>
+          </div>
+          <div class="col-md-2">
+            <button type="button" class="p-2" id="carritoo"><img src="./multimedia/carrito.png" class="carritoo" alt="carro de compras"></button>
+          </div>
+          </div>
+        </div>
+      </header>
+      <main>
+        
+       <div id="contenidoTotal">
+        <div class="container">
+          <form class="d-flex p-2">
+            <input class="form-control me-2" id="input" type="text" placeholder="Search" aria-label="Search">
+          </form>
+        </div>
+        <div id="contenedor" class="titulo p-2">
+            <!---Informacion del buscador, Script-->
+        </div>
+        <div class="titulo p-2">
+            <h2>Nuestros Productos</h2>
+        </div>
+          <h3 class="titulo">Categorias</h3>
+          <div class="container p-4">
+            <div class="row">
+              <div class="col-md-1"></div>
+              <div class="col-md-2 responsiveFlex">
+                <button id="todos" class="btn"><img class="categoriasAnimales" src="../multimedia/perro.png" alt="categoria perros"></button>
+                <h4 class="titulo">Todos</h4>      
+              </div>
+              <div class="col-md-2 responsiveFlex">
+                <button id="perro" class="btn"><img class="categoriasAnimales" src="../multimedia/perro.png" alt="categoria perros"></button>
+                <h4 class="titulo">Perros</h4>      
+              </div>
+              <div class="col-md-2 responsiveFlex">
+                <button id="gato" class="btn"><img class="categoriasAnimales" src="../multimedia/gato.png" alt="categoria gatos"></button>
+                <h4 class="titulo">Gatos</h4>      
+              </div>
+              <div class="col-md-2 responsiveFlex">
+                <button id="pez" class="btn"><img class="categoriasAnimales" src="../multimedia/pez.png" alt="categoria peces"></button>
+                <h4 class="titulo">Peces</h4>      
+              </div>
+              <div class="col-md-2 responsiveFlex">
+                <button id="pajaro" class="btn"><img class="categoriasAnimales" src="../multimedia/pajaro.png" alt="categoria pajaros"></button>
+                <h4 class="titulo">Pajaros</h4>      
+              </div>
+              <div class="col-md-1"></div>
+            </div>
+          </div>
+        <div id="titulo" class="titulo">
+             <h2 class="titulo">Todos los productos</h2>
+        </div>
+        <div id="carroo" class="m-5 carrito">
+            <!--Catalogo-->
+        </div>
+      </div> 
+      <div id="total">
+      </div>
+      </main>
+      <footer>
+        <div class="container p-3 pie">
+          <div class="row row align-items-center">
+            <div class="col-md-6">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3926.4442414148075!2d-67.9718961858875!3d10.225709271914555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e805d3b79ec421b%3A0x2292556f1ff46689!2sMadagaskar!5e0!3m2!1ses!2sve!4v1627659825620!5m2!1ses!2sve" class="ubicacion"></iframe> 
+            </div>
+            <div class="col-md-6">
+              <h3 class="titulo m-0">Contactanos</h3>
+              <a href="https://www.instagram.com/?hl=es"><img src="../multimedia/instagram.png" alt="Logo instagram"></a>
+              <a href="https://www.google.com/intl/es-419/gmail/about/"><img src="../multimedia/gmail.png" alt="Logo Gmail"></a>
+              <a href="https://web.whatsapp.com/"><img src="../multimedia/whatsapp.png" alt="Logo Whatsapp"></a>
+              <p class="parrafo m-2">Estamos ubicados en la Gran Valencia, San Diego - La Esmeralda de Lunes a Sábado de 9am a 6pm. Reserva tu cita contactándonos</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+      <script src="../javascript/producto.js"></script>
+</body>
+</html>

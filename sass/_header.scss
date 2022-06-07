@@ -1,0 +1,31 @@
+.logo{
+    width: 5rem;
+    width: 5rem;
+}
+.tituloCentrar{
+    margin-top: 1.5em;
+}
+.buscador{
+    width: 70%;
+}
+.menu{
+    font-family:'STIX Two Text', serif;
+    list-style: none;
+    padding-left: 0;
+}
+.menu-li{
+    text-decoration: none;
+    color: black;
+}
+.menu a:hover{
+    background: #f0975c;
+    transition: .5s;
+    color: white;
+}
+#carritoo{
+    background: none;
+    border: none;
+}
+.carritoo{
+    height: 7em;
+}
