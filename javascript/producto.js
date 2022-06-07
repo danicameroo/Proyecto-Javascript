@@ -33,7 +33,7 @@ const productoCarro = [
         id: "4"
     },
     {
-        imagen: "../multimedia/dogpro.png",
+        imagen: "./multimedia/dogpro.png",
         nombre: "DogPro",
         precio: 11,
         categoria: "perro",
@@ -41,7 +41,7 @@ const productoCarro = [
         id: "5"
     },
     {
-        imagen: "../multimedia/upper.png",
+        imagen: "./multimedia/upper.png",
         nombre: "Upper Crock",
         precio:  7.75,
         categoria: "perro",
@@ -49,7 +49,7 @@ const productoCarro = [
         id: "6"
     },
     {
-        imagen: "../multimedia/miringo.png",
+        imagen: "./multimedia/miringo.png",
         nombre: "Miringo",
         precio: 2.1,
         categoria: "gato",
@@ -57,7 +57,7 @@ const productoCarro = [
         id: "7"
     },
     {
-        imagen: "../multimedia/simpliGato.png",
+        imagen: "./multimedia/simpliGato.png",
         nombre: "Simpli Crock",
         precio: 5,
         categoria: "gato",
@@ -65,7 +65,7 @@ const productoCarro = [
         id: "8"
     },
     {
-        imagen: "../multimedia/gatsy.png",
+        imagen: "./multimedia/gatsy.png",
         nombre: "Gatsy",
         precio: 3.5,
         categoria: "gato",
@@ -73,7 +73,7 @@ const productoCarro = [
         id: "9"
     },
     {
-        imagen: "../multimedia/catchow.webp",
+        imagen: "./multimedia/catchow.webp",
         nombre: "Cat Chow",
         precio: 7,
         categoria: "gato",
@@ -81,7 +81,7 @@ const productoCarro = [
         id: "10"
     },
     {
-        imagen: "../multimedia/tetra.png",
+        imagen: "./multimedia/tetra.png",
         nombre: "TetraMin",
         precio: 1.8,
         categoria: "pez",
@@ -89,7 +89,7 @@ const productoCarro = [
         id: "11"
     },
     {
-        imagen: "../multimedia/aqueon.png",
+        imagen: "./multimedia/aqueon.png",
         nombre: "Aqueon",
         precio: 1.5,
         categoria: "pez",
@@ -97,7 +97,7 @@ const productoCarro = [
         id: "12"
     },
     {
-        imagen: "../multimedia/kantalPez.png",
+        imagen: "./multimedia/kantalPez.png",
         nombre: "Kantal",
         precio: 2,
         categoria: "pez",
@@ -105,7 +105,7 @@ const productoCarro = [
         id: "13"
     },
     {
-        imagen: "../multimedia/alpiste.png",
+        imagen: "./multimedia/alpiste.png",
         nombre: "Kantal Alpiste",
         precio: 1.8,
         categoria: "pajaro",
@@ -113,7 +113,7 @@ const productoCarro = [
         id: "14"
     },
     {
-        imagen: "../multimedia/semillas.png",
+        imagen: "./multimedia/semillas.png",
         nombre: "Kantal Semillas",
         precio: 2.5,
         categoria: "pajaro",
