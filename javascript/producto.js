@@ -1,7 +1,7 @@
 /**PRODUCTOS*/
 const productoCarro = [
     {
-        imagen: "../multimedia/ringo.png",
+        imagen: "./multimedia/ringo.png",
         nombre: "Ringo",
         precio: 4,
         categoria: "perro",
@@ -9,7 +9,7 @@ const productoCarro = [
         id: "1"
     },
     {
-        imagen: "../multimedia/happyOne.png",
+        imagen: "./multimedia/happyOne.png",
         nombre: "HappyOne",
         precio: 28,
         categoria: "perro",
@@ -17,7 +17,7 @@ const productoCarro = [
         id: "2"
     },
     {
-        imagen: "../multimedia/perrarina.png",
+        imagen: "./multimedia/perrarina.png",
         nombre: "Perrarina",
         precio: 12,
         categoria: "perro",
@@ -25,7 +25,7 @@ const productoCarro = [
         id: "3"
     },
     {
-        imagen: "../multimedia/simpli.png",
+        imagen: "./multimedia/simpli.png",
         nombre: "Simpli Crock",
         precio: 6.7,
         categoria: "perro",
