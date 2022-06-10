@@ -1,0 +1,122 @@
+[
+    {
+        "imagen": "../multimedia/ringo.png",
+        "nombre": "Ringo",
+        "precio": 4,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "1"
+    },
+    {
+        "imagen": "../multimedia/happyOne.png",
+        "nombre": "HappyOne",
+        "precio": 28,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "2"
+    },
+    {
+        "imagen": "../multimedia/perrarina.png",
+        "nombre": "Perrarina",
+        "precio": 12,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "3"
+    },
+    {
+        "imagen": "../multimedia/simpli.png",
+        "nombre": "Simpli Crock",
+        "precio": 6.7,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "4"
+    },
+    {
+        "imagen": "../multimedia/dogpro.png",
+        "nombre": "DogPro",
+        "precio": 11,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "5"
+    },
+    {
+        "imagen": "../multimedia/upper.png",
+        "nombre": "Upper Crock",
+        "precio":  7.75,
+        "categoria": "perro",
+        "categoriaGeneral": "todos",
+        "id": "6"
+    },
+    {
+        "imagen": "../multimedia/miringo.png",
+        "nombre": "Miringo",
+        "precio": 2.1,
+        "categoria": "gato",
+        "categoriaGeneral": "todos",
+        "id": "7"
+    },
+    {
+        "imagen": "../multimedia/simpliGato.png",
+        "nombre": "Simpli Crock",
+        "precio": 5,
+        "categoria": "gato",
+        "categoriaGeneral": "todos",
+        "id": "8"
+    },
+    {
+        "imagen": "../multimedia/gatsy.png",
+        "nombre": "Gatsy",
+        "precio": 3.5,
+        "categoria": "gato",
+        "categoriaGeneral": "todos",
+        "id": "9"
+    },
+    {
+        "imagen": "../multimedia/catchow.webp",
+        "nombre": "Cat Chow",
+        "precio": 7,
+        "categoria": "gato",
+        "categoriaGeneral": "todos",
+        "id": "10"
+    },
+    {
+        "imagen": "../multimedia/tetra.png",
+        "nombre": "TetraMin",
+        "precio": 1.8,
+        "categoria": "pez",
+        "categoriaGeneral": "todos",
+        "id": "11"
+    },
+    {
+        "imagen": "../multimedia/aqueon.png",
+        "nombre": "Aqueon",
+        "precio": 1.5,
+        "categoria": "pez",
+        "categoriaGeneral": "todos",
+        "id": "12"
+    },
+    {
+        "imagen": "../multimedia/kantalPez.png",
+        "nombre": "Kantal",
+        "precio": 2,
+        "categoria": "pez",
+        "categoriaGeneral": "todos",
+        "id": "13"
+    },
+    {
+        "imagen": "../multimedia/alpiste.png",
+        "nombre": "Kantal Alpiste",
+        "precio": 1.8,
+        "categoria": "pajaro",
+        "categoriaGeneral": "todos",
+        "id": "14"
+    },
+    {
+        "imagen": "../multimedia/semillas.png",
+        "nombre": "Kantal Semillas",
+        "precio": 2.5,
+        "categoria": "pajaro",
+        "categoriaGeneral": "todos",
+        "id": "15"
+    }
+]
